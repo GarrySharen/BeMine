@@ -119,15 +119,15 @@ function toggleMusic() {
 
 
 const quotes = [
-    "In your eyes, my forever resides.",
-    "Your anger is a testament to our passion.",
-    "Together in the dark, our love shines.",
+    "You feel like home already.",
+    "I didn’t expect you, but I’m glad you found me.",
+    "You make my days better without even trying.",
     "Your lips, a beacon in the night.",
-    "Your quirks, the threads of our unique bond.",
-    "You lead me through the dark.",
-    "In you, I've found my greatest treasure.",
-    "Every moment with you, a timeless embrace.",
-    "Your touch, the melody of my heart."
+    "It’s new, but it already means a lot",
+    "I didn’t believe in timing until you.",
+    "I didn’t see you coming—but I needed you.",
+    "I like the way you fit into my life.",
+    "You’re becoming my favorite habit."
 ];
 
 let currentQuoteIndex = 0;
